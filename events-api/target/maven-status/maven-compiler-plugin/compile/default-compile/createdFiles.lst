@@ -1,0 +1,7 @@
+com\lekgolo\eventsapi\model\Comment.class
+com\lekgolo\eventsapi\EventsApiApplication.class
+com\lekgolo\eventsapi\model\Event.class
+com\lekgolo\eventsapi\controller\EventController.class
+com\lekgolo\eventsapi\repository\CommentRepository.class
+com\lekgolo\eventsapi\repository\EventRepository.class
+com\lekgolo\eventsapi\controller\CommentController.class
